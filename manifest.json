@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidianmd_link_status_emoji",
+	"name": "Link Status Emojis",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This is a plugin for obsidian that displays emojis next to links representing a status tag.",
+	"author": "Jacob Auman",
+	"authorUrl": "https://jacobauman.com/",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
